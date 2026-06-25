@@ -1,0 +1,9 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+BZ1,Buzzer_D30mm_H20mm_P15_668-1652-ND_AI-3035-TT-12V-R,1,Buzzer,
+C1,C_Disc_D3.0mm_W1.6mm_P2.50mm,1,1nF,
+D1,LED_D5.0mm,1,LED_Small_Filled,
+J1,BarrelJack_GCT_DCJ200-10-A_Horizontal,1,Jack-DC,
+J2,"TerminalBlock_Phoenix_PT-1,5-2-5.0-H_1x02_P5.00mm_Horizontal",1,Screw_Terminal_01x02,
+Q1,TO-92_Inline,1,2N7000,
+R1,R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal,1,10M,
+R2,R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal,1,6.8k,
