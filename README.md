@@ -11,6 +11,5 @@ First, the tutorial I used was made by Digikey. The link to the Digikey website 
 7. https://www.youtube.com/watch?v=zMNGZAnHPts&list=PLEBQazB0HUyQ5YJSdCBb79orXaR3Uk5vm&index=7
 
 <img width="534" height="539" alt="Image 4" src="https://github.com/user-attachments/assets/0c4851ba-a89e-4374-83d3-aa1b72704654" />
-<img width="723" height="448" alt="Image 3" src="https://github.com/user-attachments/assets/ac0af186-60f5-47f8-9e07-efe058ceee14" />
-<img width="673" height="480" alt="Image 2" src="https://github.com/user-attachments/assets/37efe801-35df-44ca-99f6-6f4ae659d830" />
+
 <img width="734" height="496" alt="Image 1" src="https://github.com/user-attachments/assets/495c2876-b0bf-4e5b-9a60-098f3058c991" />
