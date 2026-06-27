@@ -15,4 +15,3 @@ The finished Project was these images of a water alarm.
 
 <img width="734" height="496" alt="Image 1" src="https://github.com/user-attachments/assets/495c2876-b0bf-4e5b-9a60-098f3058c991" />
 
-After following the Digikey tutorial, try it in a new project to make  a
