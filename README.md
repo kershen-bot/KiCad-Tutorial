@@ -10,6 +10,9 @@ First, the tutorial I used was made by Digikey. The link to the Digikey website 
 6. https://www.youtube.com/watch?v=zdieFtrvjew&list=PLEBQazB0HUyQ5YJSdCBb79orXaR3Uk5vm&index=6
 7. https://www.youtube.com/watch?v=zMNGZAnHPts&list=PLEBQazB0HUyQ5YJSdCBb79orXaR3Uk5vm&index=7
 
+The finished Project was these images of a water alarm.
 <img width="534" height="539" alt="Image 4" src="https://github.com/user-attachments/assets/0c4851ba-a89e-4374-83d3-aa1b72704654" />
 
 <img width="734" height="496" alt="Image 1" src="https://github.com/user-attachments/assets/495c2876-b0bf-4e5b-9a60-098f3058c991" />
+
+After following the Digikey tutorial, try it in a new project to make  a
